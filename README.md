@@ -1,5 +1,5 @@
-# Flux2026
-References for FLUX poster
+# Poster 2026
+References for 2026 LIFU poster
 1. Darrow DP, Herman AB, Hattab T, et al. An action networks model for pain reveals cortical neuromodulation targets. PsyArXiv. 2025. doi:10.31234/osf.io/u4jky_v1.
 2. Dosenbach NUF, Raichle ME, Gordon EM. The brain’s action-mode network. Nat Rev Neurosci. 2025;26:158–168. doi:10.1038/s41583-024-00895-x.
 3. Gordon EM, Chauvin RJ, Van AN, et al. A somato-cognitive action network alternates with effector regions in motor cortex. Nature. 2023;617:351–359. doi:10.1038/s41586-023-05964-2.
